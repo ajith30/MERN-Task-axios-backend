@@ -1,0 +1,138 @@
+{
+    "studends": [
+        {
+          "id": 1,
+          "image": "https://randomuser.me/api/portraits/men/1.jpg",
+          "firstName": "Ajithkumar",
+          "lastName": "K",
+          "email": "ajith@mail.com",
+          "phone": "987654322"
+        },
+        {
+          "id": 2,
+          "image": "https://randomuser.me/api/portraits/men/2.jpg",
+          "firstName": "Virat",
+          "lastName": "Kohli",
+          "email": "virat@mail.com",
+          "phone": "9876543434"
+        },
+        {
+          "id": 3,
+          "image": "https://randomuser.me/api/portraits/men/3.jpg",
+          "firstName": "Rohit",
+          "lastName": "Sharma",
+          "email": "rohit@mail.com",
+          "phone": "987654344"
+        },
+        {
+          "id": 4,
+          "image": "https://randomuser.me/api/portraits/men/4.jpg",
+          "firstName": "Rahul",
+          "lastName": "KL",
+          "email": "ralul@mail.com",
+          "phone": "987654355"
+        },
+        {
+          "id": 5,
+          "image": "https://randomuser.me/api/portraits/men/5.jpg",
+          "firstName": "Shubman",
+          "lastName": "Gil",
+          "email": "shubman@mail.com",
+          "phone": "987654366"
+        },
+        {
+          "id": 6,
+          "image": "https://randomuser.me/api/portraits/men/6.jpg",
+          "firstName": "Surya",
+          "lastName": "Kumar",
+          "email": "surya@mail.com",
+          "phone": "987654377"
+        },
+        {
+          "id": 7,
+          "image": "https://randomuser.me/api/portraits/men/7.jpg",
+          "firstName": "Mohamad",
+          "lastName": "Siraj",
+          "email": "mohamad@mail.com",
+          "phone": "987654388"
+        },
+        {
+          "id": 8,
+          "image": "https://randomuser.me/api/portraits/men/8.jpg",
+          "firstName": "Kuldeep",
+          "lastName": "Yadhav",
+          "email": "kuldeep@mail.com",
+          "phone": "987654399"
+        },
+        {
+          "id": 9,
+          "image": "https://randomuser.me/api/portraits/men/9.jpg",
+          "firstName": "Hardik",
+          "lastName": "Pandya",
+          "email": "hardik@mail.com",
+          "phone": "987654311"
+        },
+        {
+          "id": 10,
+          "image": "https://randomuser.me/api/portraits/men/10.jpg",
+          "firstName": "Bhuvaneshvar",
+          "lastName": "Kumar",
+          "email": "buvi@mail.com",
+          "phone": "987654300"
+        }
+      ],
+
+      "teachers": [
+        {
+          "id": 1,
+          "image": "https://randomuser.me/api/portraits/men/31.jpg",
+          "firstName": "John",
+          "lastName": "Wick",
+          "email": "ragav@mail.com",
+          "phone": "9123456780"
+        },
+        {
+          "id": 2,
+          "image": "https://randomuser.me/api/portraits/men/32.jpg",
+          "firstName": "Tony",
+          "lastName": "Stark",
+          "email": "tony@mail.com",
+          "phone": "9123456770"
+        },
+        {
+          "id": 3,
+          "image": "https://randomuser.me/api/portraits/men/33.jpg",
+          "firstName": "James",
+          "lastName": "Bond",
+          "email": "james@mail.com",
+          "phone": "9123456760"
+        }
+      ],
+      "courses": [
+        {
+          "id": 1,
+          "image": "https://img.icons8.com/arcade/64/null/html-5.png",
+          "courseName": "HTML"
+        },
+        {
+          "id": 2,
+          "image": "https://img.icons8.com/color/48/null/css3.png",
+          "courseName": "CSS"
+        },
+        {
+          "id": 3,
+          "image": "https://1.bp.blogspot.com/-TGQt5uRcAkg/XuMIJoAhwnI/AAAAAAAAA38/FaJQpUUDsGEYR1zBK1wqLWUA9DTYp5CiQCPcBGAYYCw/s587/js.png",
+          "courseName": "JvaScript"
+        },
+        {
+          "id": 4,
+          "image": "https://res.cloudinary.com/practicaldev/image/fetch/s--3zWuwYa3--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pdib9r9rk5j1m7oala1p.png",
+          "courseName": "React JS"
+        },
+        {
+          "id": 5,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png",
+          "courseName": "Node JS"
+        }
+      ]
+}
